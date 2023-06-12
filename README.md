@@ -9,7 +9,7 @@ the objective is to reduce dependence on a single category and promote diversifi
 
 # Key Performance Indicators (KPIs)
 ![Image](https://github.com/sshivam12/Amazon-India-Sales-Analysis/blob/main/Results%20(Image)/Screenshot%20(15747).png)
-![Image] (https://github.com/sshivam12/Amazon-India-Sales-Analysis/blob/main/Results%20(Image)/Screenshot%20(15744).png)
+![Image](https://github.com/sshivam12/Amazon-India-Sales-Analysis/blob/main/Results%20(Image)/Screenshot%20(15744).png)
 
 
 
